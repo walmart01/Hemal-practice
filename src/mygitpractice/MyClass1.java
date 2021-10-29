@@ -7,5 +7,7 @@ public class MyClass1 {
         NextClassAfterFirstGitSubmit obj = new NextClassAfterFirstGitSubmit();
         obj.myMethod1();
 
+        MyClass2 obj2 = new MyClass2();
+        obj2.myMethod2();
     }
 }
