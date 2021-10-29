@@ -9,5 +9,6 @@ public class MyClass1 {
 
         MyClass2 obj2 = new MyClass2();
         obj2.myMethod2();
+        obj2.myMethod22();
     }
 }
